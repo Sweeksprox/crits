@@ -1,5 +1,12 @@
 ## Interface: 35753
-## Title: Crit Moans
+## Title: Crits
 ## Author: John Suihkonen
-## Version: 0.1
-main.lua
+## Version: 1.0
+## Notes: Plays sound files on swing and spell criticals events
+## SavedVariables: CritsDB
+## OptionalDeps: Ace3
+## X-Embeds: Ace3
+
+embeds.xml
+
+Core.lua
