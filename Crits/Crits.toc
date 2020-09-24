@@ -1,0 +1,5 @@
+## Interface: 35753
+## Title: Crit Moans
+## Author: John Suihkonen
+## Version: 0.1
+main.lua
