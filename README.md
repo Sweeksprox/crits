@@ -7,7 +7,11 @@ Sounds play through the 'Dialog' sound channel. Make sure the 'Dialog' channel f
 
 # commands
 /crits command
+
 spelldamage - toggle spell damage triggers on/off, default: on
+
 spellheal - toggle spell heal triggers on/off, default: on
+
 swingdamage - toggle swing damage triggers on/off, default: on
+
 sound 0/1/2 - 0: Owen Wilson "Wow!", 1: "That's a lot of damage", 2: Weeb Anime moaning, default: 0
