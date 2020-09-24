@@ -26,7 +26,6 @@ function f:OnEvent(event, ...)
     end
 
     if critical and sourceGUID == playerGUID then
-    	print(math.random(0,2))
     	script = PlaySoundFile(string.format(soundPath, math.random(0,2)), "Dialog")
     end
 end
