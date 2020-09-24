@@ -5,6 +5,9 @@ Place 'Crits' folder in 'Interface\Addons' located in _classic_ directory. Make 
 
 Sounds play through the 'Dialog' sound channel. Make sure the 'Dialog' channel fader is set to a non-zero value, adjust this fader to adjust the sound triggers.
 
+# menu
+there's a menu in the wow interface menu also
+
 # commands
 /crits command
 
